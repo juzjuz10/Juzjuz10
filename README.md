@@ -10,7 +10,6 @@ Me apasiona aprender nuevas tecnologías, aplicar buenas prácticas de programac
 * [Proyectos](#proyectos) 
 * [Intereses y habilidades](#intereses-y-habilidades)
 * [Tecnologias](#tecnologias)
-* [Tecnologias](#tecnologias)
 * [Contacto](#contacto)
 
 ---
@@ -69,7 +68,7 @@ Aplicación web interactiva que calcula la resistencia total de un circuito elé
 ---
 
 
-## 🛠️ Tecnologias
+## 🛠️Tecnologias
 Durante mis proyectos, he aplicado diversas tecnologías de la siguiente manera:  
 
 | Tecnología | Cómo la uso en mis proyectos |
@@ -82,7 +81,7 @@ Durante mis proyectos, he aplicado diversas tecnologías de la siguiente manera:
 | **Git & GitHub** | Control de versiones, colaboración y despliegue de proyectos en GitHub Pages. |
 
 
-## 📫 Contacto
+## 📫Contacto
 - **Correo:** [juliburg@espol.edu.ec](mailto:juliburg@espol.edu.ec)  
 - **LinkedIn:** [Juliana Burgos Panta]([https://www.linkedin.com/in/juliana-burgos-panta/](https://www.linkedin.com/in/juliana-burgos-9a3354259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
 
