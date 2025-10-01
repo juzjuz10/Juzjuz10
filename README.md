@@ -6,17 +6,17 @@ Me apasiona aprender nuevas tecnologías, aplicar buenas prácticas de programac
 ---
 
 ## 📌 Contenido
-* [Sobre mí](#sobre-mí)
+* [Sobre mí](#sobre-mi)
 * [Proyectos](#proyectos)
 * [Intereses y habilidades](#intereses-y-habilidades)
-* [Tecnologías](#tecnologías)
+* [Tecnologías y herramientas](#tecnologias-y-herramientas)
 
 ---
 
 ## 📝 Sobre mí
 - **Nombre:** Juliana Burgos Panta  
 - **Ocupación:** Estudiante de Ingeniería en Computación en ESPOL  
-- **Lugar de residencia:** Guayaquil, Ecuador  
+- **Ubicación:** Guayaquil, Ecuador  
 - **Portafolio en línea:** [Ver sitio web](https://juzjuz10.github.io/Juzjuz10/)  
 
 ---
@@ -28,10 +28,9 @@ Me apasiona aprender nuevas tecnologías, aplicar buenas prácticas de programac
 Aplicación de gestión de contactos que permite crear, visualizar, editar y eliminar contactos con múltiples atributos: nombres, teléfonos, correos, direcciones, redes sociales, fotos y fechas importantes. Incluye funcionalidades de navegación circular, contactos relacionados, ordenamiento y filtrado avanzado.  
 
 **Tecnologías utilizadas:**  
-- **Lenguaje:** Java  
-- **Estructuras de datos:** Listas doblemente enlazadas circulares, iteradores personalizados  
-- **Persistencia:** Archivos de texto y binarios  
-- **Paradigmas:** POO, colecciones lineales, comparadores  
+- **Java:** Desarrollo de la lógica del programa y estructuras de datos (listas doblemente enlazadas circulares).  
+- **Archivos de texto y binarios:** Persistencia de contactos.  
+- **POO y colecciones lineales:** Organización y manipulación de los datos de manera eficiente.  
 
 **Repositorio:** [Ver en GitHub](https://github.com/DanRCM/ContactManager.git)  
 
@@ -42,9 +41,9 @@ Aplicación de gestión de contactos que permite crear, visualizar, editar y eli
 Aplicación integral para el control de finanzas personales. Permite administrar categorías, ingresos, gastos, cuentas bancarias, préstamos, deudas e inversiones, además de generar reportes y proyecciones financieras.  
 
 **Tecnologías utilizadas:**  
-- Java, Android Studio  
-- Programación orientada a objetos (POO)  
-- Herramientas de gestión financiera digital  
+- **Java y Android Studio:** Desarrollo de la aplicación móvil y su lógica.  
+- **POO:** Organización del código en clases y objetos.  
+- **Gestión financiera digital:** Implementación de cálculos y reportes financieros.  
 
 **Repositorio:** [Ver en GitHub](https://github.com/raydan90s/PROYECTOSEGUNDOPARCIAL.git)  
 
@@ -55,8 +54,9 @@ Aplicación integral para el control de finanzas personales. Permite administrar
 Aplicación web interactiva que calcula la resistencia total de un circuito eléctrico, permitiendo elegir configuraciones en serie o en paralelo. Los usuarios pueden modificar los valores de las resistencias y obtener resultados dinámicos.  
 
 **Tecnologías utilizadas:**  
-- HTML, CSS, JavaScript  
-- Diseño responsivo y validación de datos en tiempo real  
+- **HTML & CSS:** Estructura y diseño responsivo de la página web.  
+- **JavaScript:** Lógica de cálculo y actualización dinámica de resultados en tiempo real.  
+- **Validación de datos:** Evitar errores y entradas inválidas del usuario.  
 
 **Repositorio:** [Ver en GitHub](https://github.com/eimmy-o/fesd-pagina-resistencias.git)  
 
@@ -68,19 +68,14 @@ Aplicación web interactiva que calcula la resistencia total de un circuito elé
 
 ---
 
-## 🛠️ Tecnologías y herramientas aprendidas
-Durante el curso, he trabajado con diversas tecnologías y herramientas, aplicándolas en mis proyectos:  
+## 🛠️ Tecnologías y herramientas
+Durante mis proyectos, he aplicado diversas tecnologías de la siguiente manera:  
 
-| Tecnología | Uso en proyectos |
-|------------|----------------|
-| **HTML5 & CSS3** | Estructuración y estilos de páginas web; diseño responsivo. |
-| **JavaScript (JS)** | Programación de interactividad y lógica en aplicaciones web. |
-| **Java** | Desarrollo de aplicaciones de escritorio y móviles, POO y estructuras de datos. |
-| **Python** | Automatización de tareas y procesamiento de datos. |
-| **Android Studio** | Desarrollo de aplicaciones móviles. |
-| **Frameworks y librerías** | Bootstrap para diseño rápido y responsivo. |
-| **Git & GitHub** | Control de versiones, repositorios y despliegue en GitHub Pages. |
-
----
-
- 
+| Tecnología | Cómo la uso en mis proyectos |
+|------------|-----------------------------|
+| **HTML5 & CSS3** | Estructuración y diseño de páginas web; creación de interfaces responsivas en la Calculadora de Resistencia Total. |
+| **JavaScript (JS)** | Programación de la lógica y la interactividad de aplicaciones web, validación de datos en tiempo real. |
+| **Java** | Desarrollo de aplicaciones de escritorio y móviles; uso de POO y estructuras de datos en Contact Manager y Sistema Financiero. |
+| **Python** | Automatización y procesamiento de datos en tareas auxiliares o prototipos. |
+| **Android Studio** | Desarrollo de aplicaciones móviles, integración de interfaces y gestión de funcionalidades financieras. |
+| **Git & GitHub** | Control de versiones, colaboración y despliegue de proyectos en GitHub Pages. |
