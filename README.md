@@ -13,7 +13,7 @@ Me apasiona aprender nuevas tecnologías, aplicar buenas prácticas de programac
 
 ---
 
-## 📝 Sobre mi
+## 📝Sobre mi
 - **Nombre:** Juliana Burgos Panta  
 - **Ocupación:** Estudiante de Ingeniería en Computación en ESPOL  
 - **Ubicación:** Guayaquil, Ecuador  
@@ -60,13 +60,13 @@ Aplicación web interactiva que calcula la resistencia total de un circuito elé
 
 ---
 
-## 🎨 Intereses y habilidades
+## 🎨Intereses y habilidades
 - **Frontend Development:** Diseño de interfaces modernas, interactivas y accesibles con HTML, CSS y JavaScript.  
 - **UI/UX Design:** Diseño de experiencias de usuario intuitivas, enfocándome en la usabilidad y estética de cada proyecto.  
 
 ---
 
-## 🛠️ Tecnologias y herramientas
+## 🛠️Tecnologias y herramientas
 Durante mis proyectos, he aplicado diversas tecnologías de la siguiente manera:  
 
 | Tecnología | Cómo la uso en mis proyectos |
