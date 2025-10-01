@@ -6,14 +6,14 @@ Me apasiona aprender nuevas tecnologías, aplicar buenas prácticas de programac
 ---
 
 ## 📌 Contenido
-* [Sobre mí](#sobre-mi)
+* [Sobre mi](#sobre-mi)
 * [Proyectos](#proyectos)
 * [Intereses y habilidades](#intereses-y-habilidades)
-* [Tecnologías y herramientas](#tecnologias-y-herramientas)
+* [Tecnologias y herramientas](#tecnologias-y-herramientas)
 
 ---
 
-## 📝 Sobre mí
+## 📝 Sobre mi
 - **Nombre:** Juliana Burgos Panta  
 - **Ocupación:** Estudiante de Ingeniería en Computación en ESPOL  
 - **Ubicación:** Guayaquil, Ecuador  
@@ -30,7 +30,6 @@ Aplicación de gestión de contactos que permite crear, visualizar, editar y eli
 **Tecnologías utilizadas:**  
 - **Java:** Desarrollo de la lógica del programa y estructuras de datos (listas doblemente enlazadas circulares).  
 - **Archivos de texto y binarios:** Persistencia de contactos.  
-- **POO y colecciones lineales:** Organización y manipulación de los datos de manera eficiente.  
 
 **Repositorio:** [Ver en GitHub](https://github.com/DanRCM/ContactManager.git)  
 
@@ -43,7 +42,6 @@ Aplicación integral para el control de finanzas personales. Permite administrar
 **Tecnologías utilizadas:**  
 - **Java y Android Studio:** Desarrollo de la aplicación móvil y su lógica.  
 - **POO:** Organización del código en clases y objetos.  
-- **Gestión financiera digital:** Implementación de cálculos y reportes financieros.  
 
 **Repositorio:** [Ver en GitHub](https://github.com/raydan90s/PROYECTOSEGUNDOPARCIAL.git)  
 
@@ -56,8 +54,7 @@ Aplicación web interactiva que calcula la resistencia total de un circuito elé
 **Tecnologías utilizadas:**  
 - **HTML & CSS:** Estructura y diseño responsivo de la página web.  
 - **JavaScript:** Lógica de cálculo y actualización dinámica de resultados en tiempo real.  
-- **Validación de datos:** Evitar errores y entradas inválidas del usuario.  
-
+-
 **Repositorio:** [Ver en GitHub](https://github.com/eimmy-o/fesd-pagina-resistencias.git)  
 
 ---
@@ -68,12 +65,12 @@ Aplicación web interactiva que calcula la resistencia total de un circuito elé
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologias y herramientas
 Durante mis proyectos, he aplicado diversas tecnologías de la siguiente manera:  
 
 | Tecnología | Cómo la uso en mis proyectos |
 |------------|-----------------------------|
-| **HTML5 & CSS3** | Estructuración y diseño de páginas web; creación de interfaces responsivas en la Calculadora de Resistencia Total. |
+| **HTML** | Estructuración y diseño de páginas web; creación de interfaces responsivas en la Calculadora de Resistencia Total. |
 | **JavaScript (JS)** | Programación de la lógica y la interactividad de aplicaciones web, validación de datos en tiempo real. |
 | **Java** | Desarrollo de aplicaciones de escritorio y móviles; uso de POO y estructuras de datos en Contact Manager y Sistema Financiero. |
 | **Python** | Automatización y procesamiento de datos en tareas auxiliares o prototipos. |
