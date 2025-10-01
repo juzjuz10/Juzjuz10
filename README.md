@@ -7,7 +7,7 @@ Me apasiona aprender nuevas tecnologías, aplicar buenas prácticas de programac
 
 ## 📌 Contenido
 * [Sobre mi](#sobre-mi)
-* [Proyectos](#proyectos)
+* [Proyectos](#proyectos) 
 * [Intereses y habilidades](#intereses-y-habilidades)
 * [Tecnologias y herramientas](#tecnologias-y-herramientas)
 
@@ -21,7 +21,8 @@ Me apasiona aprender nuevas tecnologías, aplicar buenas prácticas de programac
 
 ---
 
-## 💻 Proyectos
+
+## 💻Proyectos 
 
 ### 1️⃣ Contact Manager
 **Descripción:**  
