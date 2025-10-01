@@ -9,7 +9,7 @@ Me apasiona aprender nuevas tecnologías, aplicar buenas prácticas de programac
 * [Sobre mi](#sobre-mi)
 * [Proyectos](#proyectos) 
 * [Intereses y habilidades](#intereses-y-habilidades)
-* [Tecnologias y herramientas](#tecnologias-y-herramientas)
+* [Tecnologias](#tecnologias)
 
 ---
 
@@ -67,7 +67,7 @@ Aplicación web interactiva que calcula la resistencia total de un circuito elé
 ---
 
 
-## 🛠️Tecnologias y herramientas
+## 🛠️Tecnologias
 Durante mis proyectos, he aplicado diversas tecnologías de la siguiente manera:  
 
 | Tecnología | Cómo la uso en mis proyectos |
