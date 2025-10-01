@@ -66,6 +66,7 @@ Aplicación web interactiva que calcula la resistencia total de un circuito elé
 
 ---
 
+
 ## 🛠️Tecnologias y herramientas
 Durante mis proyectos, he aplicado diversas tecnologías de la siguiente manera:  
 
